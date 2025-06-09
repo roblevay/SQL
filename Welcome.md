@@ -5,7 +5,19 @@ Click the relevant link to access files, scripts, and additional instructions.
 
 ---
 
-## 📘 T2761 – Transact-SQL
+## 📘 MDP080 – Transact-SQL Fundamentals
+
+**Course description:**  
+Learn the fundamentals  of T-SQL – including queries and joins.
+
+👉 [Access MDP080 on GitHub](https://www.github.com/roblevay/MDP080)
+
+---
+
+
+---
+
+## 📘 T2761 – Transact-SQL Continuation
 
 **Course description:**  
 Learn the fundamentals and advanced techniques of T-SQL – including queries, joins, subqueries, and stored procedures.
