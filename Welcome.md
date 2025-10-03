@@ -15,14 +15,23 @@ Learn the fundamentals  of T-SQL – including queries and joins.
 ---
 
 
----
-
-## 📘 T2761 – Transact-SQL Continuation
+## 📘 T1987 – Transact-SQL Fundamentals
 
 **Course description:**  
-Learn the fundamentals and advanced techniques of T-SQL – including queries, joins, subqueries, and stored procedures.
+Learn the fundamentals  of T-SQL – including queries and joins.
 
-👉 [Access T2761 on GitHub](https://www.github.com/roblevay/T2761)
+👉 [Access MDP080 on GitHub](https://www.github.com/roblevay/MDP080)
+
+
+
+---
+
+## 📘 T2761 – Performance Tuning and Optimizing SQL Databases
+
+**Course description:**  
+Learn to tune and optimize SQL Server for better performance
+
+👉 [Access 1987 on GitHub](https://www.github.com/roblevay/T1987)
 
 ---
 
