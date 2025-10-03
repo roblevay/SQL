@@ -20,7 +20,7 @@ Learn the fundamentals  of T-SQL – including queries and joins.
 **Course description:**  
 Learn the fundamentals  of T-SQL – including queries and joins.
 
-👉 [Access MDP080 on GitHub](https://www.github.com/roblevay/MDP080)
+👉 [Access T1987 on GitHub](https://www.github.com/roblevay/T1987)
 
 
 
@@ -31,7 +31,7 @@ Learn the fundamentals  of T-SQL – including queries and joins.
 **Course description:**  
 Learn to tune and optimize SQL Server for better performance
 
-👉 [Access 1987 on GitHub](https://www.github.com/roblevay/T1987)
+👉 [Access 2761 on GitHub](https://www.github.com/roblevay/T2761)
 
 ---
 
