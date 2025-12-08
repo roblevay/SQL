@@ -15,7 +15,7 @@ Learn the fundamentals  of T-SQL – including queries and joins.
 ---
 
 
-## 📘 T1987 – Transact-SQL Fundamentals
+## 📘 T1987 – Optimizing
 
 **Course description:**  
 Learn the fundamentals  of T-SQL – including queries and joins.
