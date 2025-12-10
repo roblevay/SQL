@@ -17,3 +17,6 @@ Och här finns en kort guide  om någon behöver hjälp att skapa ett konto http
 Sist men inte minst kommer här länken för att de ska deltagarna ska kunna få sin Achievement Badge:
 
 https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=501095&redeem=5VL8Y9
+
+
+Utvärdering : http://www.cornerstone.se/MTM
