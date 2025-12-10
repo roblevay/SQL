@@ -1,0 +1,3 @@
+SELECT ROUND(1.0478,2)--Runda av 
+
+SELECT ROUND(1.005,2)--> Uppåt
